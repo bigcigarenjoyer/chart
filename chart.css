@@ -1,0 +1,54 @@
+#section1 .section1_container {
+        flex-direction: column;
+        text-align: center;
+        max-width: 1300px;
+        margin: 0 auto;
+        padding: 100px 0;
+
+}
+
+#section1 .section1_title {
+        font-size: 4rem;
+        font-weight: 300;
+        color: black;
+        margin-bottom: 10px;
+        letter-spacing: .2rem;
+        text-align: left;
+
+}
+
+#section1 .section1_title span {
+        color: green;
+}
+
+
+#chart svg {
+        height: 400px;
+        width: 600px;
+        border-style: solid;
+        border-radius: 10px;
+        border-color: green;
+}
+
+#replay .replay_container {
+        flex-direction: column;
+        text-align: center;
+        max-width: 1300px;
+        margin: 0 auto;
+        padding: 100px 0;
+
+}
+
+#replay .replay_title {
+        font-size: 4rem;
+        font-weight: 300;
+        color: black;
+        margin-bottom: 10px;
+        letter-spacing: .2rem;
+        text-align: left;
+
+}
+
+#replay .replay_title span {
+        color: green;
+}
